@@ -6,4 +6,4 @@ Open index.html locally, or serve this directory as a static site. No installati
 
 Gross abandonment includes all abandons. The adjusted definition removes short abandons from both numerator and denominator. A zero denominator returns N/A. All inputs are synthetic.
 
-[Try the live demo](https://nipun-gupta-portfolio.glovedfable.chatgpt.site/projects/kpi-audit/index.html)
+[Try the live demo](https://nipun03.github.io/portfolio/projects/kpi-audit/index.html)
